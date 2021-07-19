@@ -64,16 +64,28 @@ const app = {
             , stringTunings: ["D","B", "G", "D"]
         }
         , {
-            name: 'Fiddle'
+            name: 'Banjo Sawmill'
             , strings: 4
-            , frets: 8
-            , stringTunings: ["E", "A", "D", "G"]
+            , frets: 22
+            , stringTunings: ["D","C", "G", "D"]
         }
         , {
             name: 'Banjo Double C'
             , strings: 4
             , frets: 22
             , stringTunings: ["D","C", "G", "C"]
+        }
+        , {
+            name: 'Fiddle'
+            , strings: 4
+            , frets: 8
+            , stringTunings: ["E", "A", "D", "G"]
+        }
+        , {
+            name: 'Fiddle AEAE'
+            , strings: 4
+            , frets: 8
+            , stringTunings: ["E", "A", "E", "A"]
         }
     ]
     ,scales:[
